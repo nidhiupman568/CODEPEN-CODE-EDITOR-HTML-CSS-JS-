@@ -2,6 +2,8 @@
 
 🎉 Welcome to the **CodePen Code Editor** project! 🎉 This interactive and versatile tool allows you to write, edit, and run **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻 code right in your web browser. It's designed to be intuitive and powerful, making coding and experimentation seamless.
 
+Project Demo: https://nidhiupman568.github.io/CODEPEN-CODE-EDITOR-HTML-CSS-JS-/
+
 ## 📋 Description
 
 The **CodePen Code Editor** provides a sandbox environment where you can write and test your code without any setup. It supports **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻, making it perfect for prototyping, learning, and sharing snippets with others. Whether you're a beginner learning the basics or a seasoned developer experimenting with new ideas, this editor is your go-to tool! 💻
